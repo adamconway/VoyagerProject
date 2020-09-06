@@ -1,3 +1,4 @@
 # VoyagerProject
 
-Required test cases located in: VoyagerProject/VoyagerProjectTests/PointOfSaleRequiredTests.cs
+Required test cases located in: 
+```VoyagerProject/VoyagerProjectTests/PointOfSaleRequiredTests.cs```
